@@ -23,7 +23,7 @@ class FileDownloader(object):
         st.markdown(href, unsafe_allow_html=True)
 
 
-st.title("File Upload Tutorial")
+st.title("Loan Sanction App")
 
 menu = ["Dataset"]
 choice = st.sidebar.selectbox("Menu", menu)
